@@ -26,7 +26,7 @@
 - Parava Varshita  
 - Devineni Sahith  
 - Gaini Supriya  
-- Guided by: Dr. [Guide Name]
+- Guided by: Dr.P Ashok Babu
 
 ## 🎓 Academic Info
 - BTech Final Year Major Project
